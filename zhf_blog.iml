@@ -12,5 +12,10 @@
     <orderEntry type="library" name="docsify-sidebar-collapse" level="application" />
     <orderEntry type="library" name="docsify" level="application" />
     <orderEntry type="library" name="docsify-count" level="application" />
+    <orderEntry type="library" name="prismjs" level="application" />
+    <orderEntry type="library" name="prism-bash" level="application" />
+    <orderEntry type="library" name="prism-java" level="application" />
+    <orderEntry type="library" name="prism-sql" level="application" />
+    <orderEntry type="library" name="prism-go" level="application" />
   </component>
 </module>
