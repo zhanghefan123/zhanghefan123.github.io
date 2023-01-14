@@ -17,5 +17,6 @@
     <orderEntry type="library" name="prism-java" level="application" />
     <orderEntry type="library" name="prism-sql" level="application" />
     <orderEntry type="library" name="prism-go" level="application" />
+    <orderEntry type="library" name="prism-python" level="application" />
   </component>
 </module>
